@@ -1,0 +1,10 @@
+{
+  "name": "wide-angu-api",
+  "version": "1.0.0",
+  "description": "Wide Angu - Connecting clients with media professionals",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js"
+  }
+}
